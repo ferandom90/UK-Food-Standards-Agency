@@ -1,4 +1,4 @@
-# nosql-challenge
+# nosql-UK Food Standards Agency
 
 NoSQL_setup_starter:
 The code performs various analyses on a MongoDB database named uk_food that contains information about food establishments in the UK. Let's go through each part and analyze the code.
